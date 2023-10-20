@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 78c3aa87087f2b14bad3b8b8d5a5e81e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Starshines
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e0111751579bed54f9f13b59a7d466e1, type: 3}
+  - {fileID: 12800000, guid: f24e155336ff65745803c6e6a65b8367, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
